@@ -2,7 +2,7 @@
 
 > A dark editorial portfolio with a terminal hacker aesthetic, built with pure HTML, CSS & JavaScript.
 
-🌐 **Live Site:** [ebinezer-portfolio.vercel.app](https://ebinezer-portfolio.vercel.app)
+🌐 **Live Site:** [ebinezer-portfolio.vercel.app](https://portfolio-nu-hazel-70.vercel.app/)
 
 ---
 
